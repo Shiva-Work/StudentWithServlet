@@ -1,1 +1,1 @@
-# StudentWithServlet
+# StudentDetails-Adv Java
